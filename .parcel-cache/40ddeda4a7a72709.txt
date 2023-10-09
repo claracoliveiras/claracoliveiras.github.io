@@ -1,0 +1,23 @@
+22
+28C:\Clara\Coding\HTML\.vscode133408259808008927 1
+29C:\Clara\Coding\HTML\main.css133408579454223502 0
+42C:\Clara\Coding\HTML\dist\HTML.3464ddca.js133408584569997180 0
+27C:\Clara\Coding\HTML\assets133408497829940929 1
+50C:\Clara\Coding\HTML\dist\pfp.cf3f1441.png.6220.6s133408499100804343 0
+48C:\Clara\Coding\HTML\dist\index.e5980c4e.css.map133408584569867201 0
+26C:\Clara\Coding\HTML\CNAME133408395584317413 0
+25C:\Clara\Coding\HTML\dist133408585295725380 1
+43C:\Clara\Coding\HTML\assets\projectcard.png133408497830612311 0
+31C:\Clara\Coding\HTML\index.html133408585415324729 0
+46C:\Clara\Coding\HTML\dist\anilist.62fc2758.svg133408440691452572 0
+46C:\Clara\Coding\HTML\dist\HTML.3464ddca.js.map133408584570027226 0
+54C:\Clara\Coding\HTML\dist\HTML.3464ddca.js.map.6220.6q133408499100814352 0
+44C:\Clara\Coding\HTML\dist\index.e5980c4e.css133408584569803416 0
+56C:\Clara\Coding\HTML\dist\index.e5980c4e.css.map.6220.6r133408499100814352 0
+36C:\Clara\Coding\HTML\dist\index.html133408585295715327 0
+42C:\Clara\Coding\HTML\dist\pfp.cf3f1441.png133408584569877228 0
+50C:\Clara\Coding\HTML\dist\projectcard.74febb8f.png133408544529367907 0
+58C:\Clara\Coding\HTML\dist\projectcard.74febb8f.png.6220.6p133408499100814352 0
+39C:\Clara\Coding\HTML\assets\anilist.svg133408439050054546 0
+35C:\Clara\Coding\HTML\assets\pfp.png133408429752872769 0
+42C:\Clara\Coding\HTML\.vscode\settings.json133408260081791516 0

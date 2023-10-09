@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.codeActionsOnSave": [
+        "source.organizeImports",
+        "source.fixAll",
+        "source.formatDocument"
+    ]
+}
